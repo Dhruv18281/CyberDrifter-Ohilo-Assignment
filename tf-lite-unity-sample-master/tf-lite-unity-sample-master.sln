@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TensorFlowLite", "TensorFlowLite.csproj", "{0B7F7ADF-81EE-8058-F27D-88B476A217D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{9D9066BE-55AB-CC2A-B21E-AE866DE2FCD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TensorFlowLite.Common", "TensorFlowLite.Common.csproj", "{20C23357-8E9C-160C-C7AD-565290746D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaPipe", "MediaPipe.csproj", "{A0065743-CD31-9568-8546-501C4DEB8860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TensorFlowLite.Common.Editor", "TensorFlowLite.Common.Editor.csproj", "{C9116755-E59A-4FF2-5735-976E60FD0A6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaPipe.Editor", "MediaPipe.Editor.csproj", "{707B3666-F425-F1A7-6F08-B8BE1468455C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B7F7ADF-81EE-8058-F27D-88B476A217D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7F7ADF-81EE-8058-F27D-88B476A217D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7F7ADF-81EE-8058-F27D-88B476A217D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7F7ADF-81EE-8058-F27D-88B476A217D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D9066BE-55AB-CC2A-B21E-AE866DE2FCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9066BE-55AB-CC2A-B21E-AE866DE2FCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9066BE-55AB-CC2A-B21E-AE866DE2FCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9066BE-55AB-CC2A-B21E-AE866DE2FCD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C23357-8E9C-160C-C7AD-565290746D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C23357-8E9C-160C-C7AD-565290746D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C23357-8E9C-160C-C7AD-565290746D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C23357-8E9C-160C-C7AD-565290746D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0065743-CD31-9568-8546-501C4DEB8860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0065743-CD31-9568-8546-501C4DEB8860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0065743-CD31-9568-8546-501C4DEB8860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0065743-CD31-9568-8546-501C4DEB8860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9116755-E59A-4FF2-5735-976E60FD0A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9116755-E59A-4FF2-5735-976E60FD0A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9116755-E59A-4FF2-5735-976E60FD0A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9116755-E59A-4FF2-5735-976E60FD0A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707B3666-F425-F1A7-6F08-B8BE1468455C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707B3666-F425-F1A7-6F08-B8BE1468455C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707B3666-F425-F1A7-6F08-B8BE1468455C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707B3666-F425-F1A7-6F08-B8BE1468455C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
